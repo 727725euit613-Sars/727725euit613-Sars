@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjayrahul.%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20IT%20Student%20%7C%20Python%20%7C%20ML%20%7C%20IoT%20Enthusiast&descAlignY=62&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjayrahul.%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Turning%20Raw%20Data%20into%20Real%20Insights&descAlignY=62&descSize=16"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sanjayrahul+%F0%9F%91%8B;B.Tech+IT+%7C+SKCET+Coimbatore;Python+%2B+Machine+Learning+Explorer;IoT+Project+Team+Leader+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Sanjayrahul+%F0%9F%91%8B;Data+Analyst+%7C+ML+Engineer+%7C+B.Tech+IT;Pandas+%7C+NumPy+%7C+Scikit-learn+%7C+SQL;Transforming+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,17 +19,19 @@ class Sanjayrahul:
         self.location     = "Theni, Tamil Nadu, India 🇮🇳"
         self.degree       = "B.Tech Information Technology (2025–2028)"
         self.college      = "Sri Krishna College of Engineering and Technology"
-        self.stack        = ["Python", "Java", "HTML", "CSS", "MySQL", "Machine Learning"]
-        self.tools        = ["VS Code", "Git", "Streamlit", "Basic SQL"]
+        self.domain       = ["Data Analysis", "Data Engineering", "Machine Learning"]
+        self.stack        = ["Python", "Pandas", "NumPy", "Scikit-learn",
+                             "MySQL", "Streamlit", "Power BI", "Matplotlib"]
+        self.tools        = ["VS Code", "Git", "Jupyter Notebook", "Google Colab"]
         self.currently_learning = [
-            "Machine Learning → Scikit-learn, Pandas, NumPy",
-            "IoT              → Sensor Integration, Embedded Systems",
-            "AI Tools         → Prompt Engineering, LLM APIs",
+            "Data Engineering  → ETL Pipelines, Apache Spark, Airflow",
+            "ML Engineering    → Model Deployment, MLflow, FastAPI",
+            "Analytics         → Power BI, Tableau, Advanced SQL",
         ]
-        self.fun_fact     = "I led an IoT project as Team Leader 🔧"
+        self.fun_fact     = "I built an ML-powered Loan Management System 📊"
 
     def motto(self):
-        return "Build, Break, Learn, Repeat 🚀"
+        return "Data tells a story — I make sure it's heard 📈"
 
 me = Sanjayrahul()
 print(me.motto())
@@ -41,22 +43,32 @@ print(me.motto())
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**
+**Data Analysis & ML**
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0277BD?style=flat-square&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-**Databases & Tools**
+**Data Engineering & Pipelines**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases & BI Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -102,14 +114,14 @@ print(me.motto())
 ## 💼 Experience
 
 <details>
-<summary>🏭 <strong>A-Tech Computer Systems</strong> — IoT Intern | 2024 | Coimbatore, Tamil Nadu</summary>
+<summary>🏭 <strong>A-Tech Computer Systems</strong> — IoT & Data Intern | 2024 | Coimbatore, Tamil Nadu</summary>
 
-> `IoT` `Sensor Integration` `Embedded Systems` `Python`
+> `IoT` `Sensor Data Collection` `Python` `Data Monitoring` `Embedded Systems`
 
-- 🔧 Completed hands-on internship focused on IoT system design and sensor integration
-- 📡 Worked on real-time data acquisition from hardware sensors
-- 🧪 Applied practical knowledge of embedded systems and communication protocols
-- 📄 Earned IJCERT certification for the IoT main project
+- 📡 Collected and monitored real-time sensor data streams for temperature regulation systems
+- 🔢 Processed raw sensor readings to derive actionable insights and threshold alerts
+- 🧪 Applied data-driven decision making to optimize hardware performance
+- 📄 Earned IJCERT certification for IoT main project with data pipeline implementation
 
 </details>
 
@@ -121,8 +133,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| 🌡️ [**IoT Temperature Regulatory System**](#) | Python · IoT · Sensors | Designed sensor-integrated system; improved temperature monitoring efficiency via real-time data |
-| 💳 [**AI-Powered Loan Management System**](https://streamlit.io) | Python · ML · Streamlit | ML-driven loan prediction app with live Streamlit demo; end-to-end pipeline from data to UI |
+| 💳 [**AI-Powered Loan Management System**](https://streamlit.io) | Python · Scikit-learn · Pandas · Streamlit | End-to-end ML pipeline — data preprocessing, model training, live prediction UI deployed on Streamlit |
+| 🌡️ [**IoT Temperature Regulatory System**](#) | Python · Sensor Data · IoT · Data Monitoring | Real-time sensor data ingestion and analysis; improved temperature monitoring efficiency using data-driven alerts |
 
 </div>
 
@@ -135,10 +147,10 @@ print(me.motto())
 | 🏅 | Achievement | Details |
 |---|---|---|
 | 🎓 | **Diploma in IT** | PSG Polytechnic College, Coimbatore — **90%** |
-| 🤖 | **ChatGPT for Everyone** | DeepLearning.AI — Certified |
-| 🔍 | **Google Prompting Essentials** | Coursera — Certified |
+| 🤖 | **ChatGPT for Everyone** | DeepLearning.AI — AI & Prompt Engineering Certified |
+| 🔍 | **Google Prompting Essentials** | Coursera — Data & AI Tooling Certified |
 | 🌐 | **IoT Internship** | A-Tech Computer Systems — IJCERT Certified |
-| 👨‍💼 | **Team Leader** | Led IoT Main Project as Team Lead |
+| 👨‍💼 | **Team Leader** | Led IoT Data Project as Team Lead |
 
 </div>
 
@@ -161,11 +173,12 @@ print(me.motto())
 ## 📚 Currently Learning
 
 ```
-🐍 Python        →  Pandas, NumPy, Scikit-learn, Streamlit
-🤖 Machine Learning → Supervised Learning, Model Deployment, Feature Engineering
-🔧 IoT           →  Sensor Integration, Embedded C, MQTT Protocol
-💬 AI / LLMs     →  Prompt Engineering, LLM APIs, OpenAI tools
-🌐 Web Basics    →  HTML5, CSS3, Responsive Design
+🐍 Python for Data    →  Pandas, NumPy, Matplotlib, Seaborn
+🤖 Machine Learning   →  Supervised/Unsupervised, Model Deployment, MLflow
+🏗️ Data Engineering   →  ETL Pipelines, Apache Spark, Apache Airflow
+🗄️ Advanced SQL       →  Window Functions, Query Optimization, Joins
+📊 BI & Dashboards    →  Power BI, Tableau, Streamlit Dashboards
+☁️ Cloud Basics       →  AWS S3, Google BigQuery, Data Warehousing
 ```
 
 ---
@@ -177,6 +190,7 @@ print(me.motto())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjayrahuls)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sanjayrahul2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanjayrahuls)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/sanjayrahuls)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjayrahuls&color=70a5fd&style=flat-square&label=Profile+Views)
 
